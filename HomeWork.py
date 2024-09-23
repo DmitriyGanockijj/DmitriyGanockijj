@@ -1,5 +1,5 @@
 char = input('Введите символ: ')
-print (char, char + char, char+char+char, char+char+char+char, char+char+char+char+char,sep = '\n')
+print (char, char + char, char+char+char, char+char+char+char, char+char+char+char+char, sep = '\n')
 
 import calendar
 month_number = int(input('Введите номер месяца: '))
